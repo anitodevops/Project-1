@@ -2,7 +2,7 @@
 
 ## Step 4: Setup GitHub Repository
 
-### Create a new git repository – Project-3
+### Create a new git repository – Project-1
 
 ##### Go to Home page -> click on Repositories -> click New -> enter repository name, description, choose desired visibility (Public/Private) -> click create
 
