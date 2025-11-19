@@ -33,6 +33,7 @@
 - View running docker containers
   
   ` docker-compose ps`
+
 ![docker-compose](https://github.com/anitodevops/Project-1/blob/dev/Images/Docker-compose%20Run%20.png)
 
 -	Browser Verification: http://<public-IP>:80
