@@ -84,7 +84,7 @@ Deploy the React Application to a Production Ready State to run on Port 80 (HTTP
 
 ## Links
 
--	Application is accessible via http://<ProdServ-public-IP>:80
+-	Application is accessible via http://3.109.108.249:80
 
 ## Outcome
 
