@@ -4,13 +4,13 @@
 
 ### Table Of Contents 
 
--	[Goal]()
--	[Pre-Requisites]()
--	[Application Deployment Architecture]()
--	[Architecture Overview]()
--	[Steps to Build, Deploy & Monitor]()
--	[Links]()
--	[Outcome]()
+-	[Goal](https://github.com/anitodevops/Project-1/tree/dev#goal)
+-	[Pre-Requisites](https://github.com/anitodevops/Project-1/tree/dev#pre-requisites)
+-	[Application Deployment Architecture](https://github.com/anitodevops/Project-1/tree/dev#application-deployment-architecture)
+-	[Architecture Overview](https://github.com/anitodevops/Project-1/tree/dev#architecture-overview)
+-	[Steps to Build, Deploy & Monitor](https://github.com/anitodevops/Project-1/tree/dev#steps-to-build--deploy-the-application)
+-	[Links](https://github.com/anitodevops/Project-1/tree/dev#links)
+-	[Outcome](https://github.com/anitodevops/Project-1/tree/dev#outcome)
   
 ---
 ## Goal
@@ -40,10 +40,12 @@ Deploy the React Application to a Production Ready State to run on Port 80 (HTTP
 
 **Prod Server** Represents the production environment.
 
-## Steps To Build & Deploy the Application:
-> Below is a step-by-step implementation breakdown of the complete DevOps CI/CD process.
+## Steps To Build & Deploy the Application
+
+> Below is the step-by-step implementation breakdown of the complete DevOps CD process.
 
 ### Pre-Build Phase
+
 [Step 1: Local Workspace Configuration](https://github.com/anitodevops/Project-1/blob/dev/Steps/Step1.md)
 
 [Step 2: Create & Configure Application-Production Server](https://github.com/anitodevops/Project-1/blob/dev/Steps/Step2.md)
