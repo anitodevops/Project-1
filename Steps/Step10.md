@@ -4,7 +4,7 @@
 
 ### Access jenkins 
 
-Jenkins URL - **http://<localhost-IP>:8080**
+Jenkins URL - **http://localworkspaceIP:8080**
 
 ![login](https://github.com/anitodevops/Project-1/blob/dev/Images/Jenkins%20setupLogin.png)
 
