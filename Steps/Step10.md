@@ -10,7 +10,7 @@ Jenkins URL - **http://localworkspaceIP:8080**
 
 ### Get the password to login to jenkins.
 
-    `sudo cat <path-/var/../>`
+```sudo cat <path-/var/../>```
 
 ### Choose Install default plugins
 
