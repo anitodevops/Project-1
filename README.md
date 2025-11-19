@@ -15,7 +15,7 @@
 ---
 ## Goal
 
-Deploy the React Application to a Production Ready State to run on Port 80 (HTTP).
+To build a CI/CD workflow that automates the build & deploy phases of E-comm Application to deploy the application to a Production Ready State on AWS EC2  integrating with Git, Docker, Jenkins tools and to ensure that the application runs on Port 80 (HTTP).
 
 ## Pre-Requisites
 -	[AWS Account](https://signin.aws.amazon.com/signup?request_type=register)
